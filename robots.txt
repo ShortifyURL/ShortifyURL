@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /short-links/
+Disallow: ./short-links/
+Disallow: /configs/
+Disallow: ./configs/
