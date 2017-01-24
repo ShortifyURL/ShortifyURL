@@ -1,4 +1,4 @@
-#ShortifyURL [![Build Status](https://travis-ci.org/ShortifyURL/ShortifyURL.svg?branch=master)](https://travis-ci.org/ShortifyURL/ShortifyURL)
+#ShortifyURL [![Build Status](https://travis-ci.org/ShortifyURL--NOT WORKING :P--/ShortifyURL.svg?branch=master)](https://travis-ci.org/ShortifyURL/ShortifyURL)
 ####An Open Source URL Shortner developed for the community, by the community.
 ----------
 Currently Under Development, Detailed README coming soon.
