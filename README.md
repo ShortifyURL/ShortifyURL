@@ -1,4 +1,5 @@
 #ShortifyURL
+>"Not Like Your Average URL Shortner." - Aditya
 ####An Open Source URL Shortner developed for the community, by the community.
 ----------
 Currently Under Development, Detailed README coming soon.
