@@ -11,7 +11,7 @@ ShortifyURL or just Shortify is an open source easy to install and use URL Short
 
 Services
 ------
-If you want to have a customization, need help with hosting or want us to host it for you, Just Contact Us at "contact@adityatd.me" or on twitter "@adityatripathid".
+If you want to have a customization, need help with hosting or want us to host it for you, Just Contact Us at "contact@adityatd.me" or on twitter "[@adityatripathid](https://bit.ly/ATDTwitter)".
 
 License
 -------
