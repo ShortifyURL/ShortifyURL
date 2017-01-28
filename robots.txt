@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /links/
+Disallow: ./links/
+
+Disallow: /configs/
+Disallow: ./configs/
+
+Disallow: /images/
+Disallow: ./images/
+
+Disallow: /functions/
+Disallow: ./functions/
