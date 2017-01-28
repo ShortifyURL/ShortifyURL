@@ -20,6 +20,10 @@ Features
 - Extremely User Friendly.
 - And Much More!!
 
+Last Stable Build
+------
+Shortify Version 0.0.3 | [Click Here](https://github.com/ShortifyURL/ShortifyURL/releases/tag/0.0.3) to Download.
+
 Future Todos
 ------
 - Admin Page with Tracking Hits.
