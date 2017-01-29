@@ -34,6 +34,10 @@ How To Use
 ------
 Reffer to this Wiki post we have made which describes how to install and use Shortify. [Click Here](https://github.com/ShortifyURL/ShortifyURL/wiki/How-To-Install-Shortify-and-Set-It-Up)
 
+Examples
+------
+Basis Media - [Click Here](http://basis.yt/s)
+
 Services
 ------
 If you want to have a customization, need help with hosting or want us to host it for you, Just Contact Us at "contact@adityatd.me" or on twitter "[@adityatripathid](https://bit.ly/ATDTwitter)".
