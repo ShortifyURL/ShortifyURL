@@ -34,9 +34,15 @@ How To Use
 ------
 Reffer to this Wiki post we have made which describes how to install and use Shortify. [Click Here](https://github.com/ShortifyURL/ShortifyURL/wiki/How-To-Install-Shortify-and-Set-It-Up)
 
-Examples
+Examples (People/Companies Using Shortify)
 ------
 Basis Media - [Click Here](http://basis.yt/s)
+
+Donate
+------
+Your support keeps Shortify up-to date with newwer features.
+[Click Here](https://paypal.me/AdityaTD) -> PayPal.me Donation Link.
+Any amount is appreciated. Your name will be in a list of donators on this page.
 
 Services
 ------
