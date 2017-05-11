@@ -1,8 +1,8 @@
-#ShortifyURL
+# ShortifyURL
 
 > Not Like Your Average URL Shortner. - @AdityaTD
 
-####An Open Source URL Shortner developed for the community, by the community.
+## An Open Source URL Shortner developed for the community, by the community
 ----------
 
 Introduction
